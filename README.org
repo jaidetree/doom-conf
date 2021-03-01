@@ -9,12 +9,12 @@ talks relating to Emacs, Doom Emacs, Neovim, and evidently the Expanse.
 
 * Tasks
 
-** [ ] Pick a meeting platform
-** [ ] Pick a date
-** [ ] Pick a time
-** [ ] Organize talk proposals
-** [ ] Schedule talks
-** [ ] Spread the word
+- [ ] Pick a meeting platform
+- [ ] Pick a date
+- [ ] Pick a time
+- [ ] Organize talk proposals
+- [ ] Schedule talks
+- [ ] Spread the word
 
 * Talk Proposals
 
