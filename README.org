@@ -1,7 +1,6 @@
 #+title: Doom Conf 2021
 
-Planning for an online virtual [[Doom Emacs
-conference][https://github.com/hlissner/doom-emacs]] in 2021.
+Planning for an online virtual [[https://github.com/hlissner/doom-emacs][Emacs Doom]] in 2021.
 
 * Overview
 
