@@ -28,14 +28,27 @@ Table below does not reflect order or confirmed talks yet.
 | MJLBach     | Neovim                                                   | [ ]      |          |
 | eccentric-j | How to Read the Fucking Manual                           | [ ]      |          |
 
+** Requests
+
+- Could Henrik discuss the upcoming rewrite?
+-
+
 * When is it?
 
 To be determined.
 
 * Meeting Platform
 
-To be determined.
+** Candidates
+
+- https://gather.town/
+-
 
 * Schedule
 
 To be determined.
+
+* Is this serious?
+
+Pretty sure. It's not outside of the realm of realistic possibilities to pull
+this off but there are certainly some big unknowns and moving parts.
