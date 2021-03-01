@@ -41,14 +41,24 @@ To be determined.
 
 ** Candidates
 
-- https://gather.town/
--
+*** Gathertown
+
+https://gather.town/
+
+*** Calla
+
+https://discord.com/channels/406534637242810369/406537325833748510/816065305452347403
+
 
 * Schedule
 
-To be determined.
+August maybe?
 
 * Is this serious?
 
 Pretty sure. It's not outside of the realm of realistic possibilities to pull
 this off but there are certainly some big unknowns and moving parts.
+
+* Contributing
+
+PRs are very welcome
