@@ -66,9 +66,10 @@ timezone aligns with all users?
 
 No one has to specify all information here. User and GMT offset should be enough.
 
-| User        | Location | Timezone | GMT Offset |   |
-|-------------+----------+----------+------------+---|
-| eccentric-j | NY, USA  | EST      |         -5 |   |
+| User        | Location             | Timezone | GMT Offset                  |   |
+|-------------+----------------------+----------+-----------------------------+---|
+| eccentric-j | NY, USA              | EST      | -5                          |   |
+| raf         | Melbourne, Australia | AEDT     | +11 or +10 (depends on DST) |   |
 
 
 * Is this serious?
