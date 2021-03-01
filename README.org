@@ -1,0 +1,42 @@
+#+title: Doom Conf 2021
+
+Planning for an online virtual [[Doom Emacs
+conference][https://github.com/hlissner/doom-emacs]] in 2021.
+
+* Overview
+
+Create an online meetup where members of the Doom Emacs community can present
+talks relating to Emacs, Doom Emacs, Neovim, and evidently the Expanse.
+
+* Tasks
+
+- [ ] Pick a meeting platform
+- [ ] Pick a date
+- [ ] Pick a time
+- [ ] Organize talk proposals
+- [ ] Schedule talks
+- [ ] Spread the word
+
+* Talk Proposals
+
+Table below does not reflect order or confirmed talks yet.
+
+| User        | Subject                                                  | Accepted | Duration |
+|-------------+----------------------------------------------------------+----------+----------|
+| Henrik      | State of Doom                                            | [ ]      |          |
+| Flugo       | Mathmatically precise latex-editing skills (expect puns) | [ ]      |          |
+| MonadGauge  | The Expanse                                              | [ ]      | 1-hour   |
+| MJLBach     | Neovim                                                   | [ ]      |          |
+| eccentric-j | How to Read the Fucking Manual                           | [ ]      |          |
+
+* When is it?
+
+To be determined.
+
+* Meeting Platform
+
+To be determined.
+
+* Schedule
+
+To be determined.
