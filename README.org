@@ -31,7 +31,6 @@ Table below does not reflect order or confirmed talks yet.
 ** Requests
 
 - Could Henrik discuss the upcoming rewrite?
--
 
 * When is it?
 
@@ -49,10 +48,28 @@ https://gather.town/
 
 https://github.com/capnmidnight/Calla
 
-
 * Schedule
 
 August maybe?
+
+** Timezone
+
+Lets gather people's timezones and GMT Offsets to try and find a common time
+that covers the most amount of people. This site can help find the offset:
+
+https://greenwichmeantime.com/time-zone/usa/eastern-time/
+
+
+Maybe we can create a formula to calculate how a specific time within a base
+timezone aligns with all users?
+
+
+No one has to specify all information here. User and GMT offset should be enough.
+
+| User        | Location | Timezone | GMT Offset |   |
+|-------------+----------+----------+------------+---|
+| eccentric-j | NY, USA  | EST      |         -5 |   |
+
 
 * Is this serious?
 
