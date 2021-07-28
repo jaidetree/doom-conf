@@ -26,7 +26,6 @@ Table below does not reflect order or confirmed talks yet.
 | Flugo       | Mathmatically precise latex-editing skills (expect puns) | [ ]      |          |
 | MonadGauge  | The Expanse                                              | [ ]      | 1-hour   |
 | MJLBach     | Neovim                                                   | [ ]      |          |
-| eccentric-j | How to Read the Fucking Manual                           | [ ]      |          |
 
 ** Requests
 
@@ -34,19 +33,15 @@ Table below does not reflect order or confirmed talks yet.
 
 * When is it?
 
-To be determined.
+Aiming for August 15, 2021 but this is not set in stone as of yet.
 
 * Meeting Platform
 
-** Candidates
 
 *** Gathertown
 
 https://gather.town/
 
-*** Calla
-
-https://github.com/capnmidnight/Calla
 
 * Schedule
 
@@ -54,22 +49,8 @@ August maybe?
 
 ** Timezone
 
-Lets gather people's timezones and GMT Offsets to try and find a common time
-that covers the most amount of people. This site can help find the offset:
+https://www.when2meet.com/?12406040-qMWeb
 
-https://greenwichmeantime.com/time-zone/usa/eastern-time/
-
-
-Maybe we can create a formula to calculate how a specific time within a base
-timezone aligns with all users?
-
-
-No one has to specify all information here. User and GMT offset should be enough.
-
-| User        | Location             | Timezone | GMT Offset                  |   |
-|-------------+----------------------+----------+-----------------------------+---|
-| eccentric-j | NY, USA              | EST      | -5                          |   |
-| raf         | Melbourne, Australia | AEDT     | +11 or +10 (depends on DST) |   |
 
 
 * Is this serious?
